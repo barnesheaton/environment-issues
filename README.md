@@ -19,3 +19,9 @@
 **Can't find a package**
 1. Delete `node-modules` folder
 2. Run `yarn`
+
+# Fake Workouts
+
+1. https://dashboard.heroku.com/apps/flex-qa?web-console=flex-qa
+2. To create more fake users `rake db:seed:fake_users`
+3. To simulate fake workouts `rake workouts:fake video_id=[id] workout_id=[id] quantity=[num]` `workout_id` is optional
