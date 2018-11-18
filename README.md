@@ -17,8 +17,8 @@
 # Node Modules
 
 **Can't find a package**
-1. Delete `node-modules` folder
-2. Run `yarn`
+1. `rm -rf node_modules`
+2. Then `yarn`
 
 **Multiple Proccesses Running**
 1. `sudo lsof -i tcp:8081`
