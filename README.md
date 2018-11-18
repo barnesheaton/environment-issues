@@ -20,6 +20,10 @@
 1. Delete `node-modules` folder
 2. Run `yarn`
 
+**Multiple Proccesses Running**
+1. `sudo lsof -i tcp:8081`
+2. `kill -9 [PID]`
+
 # Fake Workouts
 
 1. https://dashboard.heroku.com/apps/flex-qa?web-console=flex-qa
