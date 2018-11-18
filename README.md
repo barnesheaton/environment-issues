@@ -13,6 +13,7 @@
 3. `pod install`
 
 **Manual Linking**
+https://facebook.github.io/react-native/docs/linking-libraries-ios
 
 # Node Modules
 
