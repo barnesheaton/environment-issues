@@ -25,6 +25,9 @@ https://facebook.github.io/react-native/docs/linking-libraries-ios
 1. `sudo lsof -i tcp:8081`
 2. `kill -9 [PID]`
 
+**Run On Specific Device**
+1. `react-native run-ios --simulator="iPhone X"`
+
 # Fake Workouts
 
 1. https://dashboard.heroku.com/apps/flex-qa?web-console=flex-qa
