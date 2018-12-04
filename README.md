@@ -7,13 +7,16 @@
 **Apollo Issues**
 1. `yarn global add apollo`
 
+**Glog**
+- https://stackoverflow.com/questions/49657043/glog-logging-h-file-not-found
+
 **Pods**
 1. `pod install --repo-update`
 2. `pod cache clean`
 3. `pod install`
 
 **Manual Linking**
-https://facebook.github.io/react-native/docs/linking-libraries-ios
+ - https://facebook.github.io/react-native/docs/linking-libraries-ios
 
 # Node Modules
 
@@ -26,7 +29,7 @@ https://facebook.github.io/react-native/docs/linking-libraries-ios
 2. `kill -9 [PID]`
 
 **Run On Specific Device**
-1. `react-native run-ios --simulator="iPhone X"`
+ - `react-native run-ios --simulator="iPhone X"`
 
 # Fake Workouts
 
