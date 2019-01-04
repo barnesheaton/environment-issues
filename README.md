@@ -20,6 +20,9 @@
 
 # Node Modules
 
+**Submodules**
+ - `git submodule update --init --force --remote`
+
 **Can't find a package**
 1. `rm -rf node_modules`
 2. Then `yarn`
