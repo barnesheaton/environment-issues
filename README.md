@@ -18,10 +18,17 @@
 **Manual Linking**
  - https://facebook.github.io/react-native/docs/linking-libraries-ios
 
-# Node Modules
+# Git
 
 **Submodules**
  - `git submodule update --init --force --remote`
+ 
+**Detatched Head**
+ 1. `git checkout $SHA_OF_COMMIT`
+ 2. `git branch -f master head`
+ 3. Sync or Push to Remote
+
+# Node Modules
 
 **Can't find a package**
 1. `rm -rf node_modules`
